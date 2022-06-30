@@ -18,14 +18,14 @@ export const Experience = () => {
                 <img src={Sanj} style={{width: '180px'}} alt='sanjorge'/>
                 <div className="div-titles-experience">
                     <p className="title-cards-experience">Automóviles San Jorge</p>
-                    <p><span className="span-roll">Roll:</span> Front-End developer</p>
+                    <p style={{color:'#fff', marginTop:'-20px'}}><span className="span-roll">Roll:</span> Front-End developer</p>
                 </div>
             </div>
             <div className="container-card-experience" data-aos='fade-right'>
                 <img src={Lindo} style={{width: '180px'}} alt='lindosoftware'/>
                 <div className="div-titles-experience">
                     <p className="title-cards-experience">Lindo.la Software</p>
-                    <p><span className="span-roll">Roll:</span> Front-End developer</p>
+                    <p style={{color:'#fff', marginTop:'-20px'}}><span className="span-roll">Roll:</span> Front-End developer</p>
                 </div>
             </div>
         </div>

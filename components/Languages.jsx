@@ -37,13 +37,12 @@ export const Languages = () => {
   </div>,
   ];
 
-
   const responsive = {
+    512: {
+      items: 4,
+    },
     0: {
       items: 2,
-    },
-    512: {
-      items: 3,
     },
   };
 

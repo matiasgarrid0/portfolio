@@ -19,7 +19,7 @@ export const Projects = () => {
           <img className="laptop-image-project" src={Crypto} alt="laptop" />
           <img className="smartphone-image-project" src={CryptoP} alt="phone" />
         </div>
-        <div>
+        <div className="div-text-project">
           <p className="p-title-project">Crypto Hunter</p>
           <p>
             Get information of the trending coins, search and follow prices and
@@ -35,7 +35,7 @@ export const Projects = () => {
         <div>
           <img className="laptop-image-project" src={Henr} alt="laptop" />
         </div>
-        <div>
+        <div className="div-text-project">
           <p className="p-title-project">Henropoly</p>
           <p>
             Henropoly is a video game online where you can play and learn about tecnologies with your friend in real time
@@ -51,7 +51,7 @@ export const Projects = () => {
           <img className="laptop-image-project" src={Crypto} alt="laptop" />
           <img className="smartphone-image-project" src={CryptoP} alt="phone" />
         </div>
-        <div>
+        <div className="div-text-project">
           <p className="p-title-project">Crypto Hunter</p>
           <p>
             Get information of the trending coins, search and follow prices and

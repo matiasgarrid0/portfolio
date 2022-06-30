@@ -37,11 +37,11 @@ export const Carousel = () => {
     </div>,
   ];
   const responsive = {
-    0: {
-      items: 2,
-    },
     512: {
-      items: 3,
+      items: 4,
+    },
+    0: {
+      items: 1,
     },
   };
 
